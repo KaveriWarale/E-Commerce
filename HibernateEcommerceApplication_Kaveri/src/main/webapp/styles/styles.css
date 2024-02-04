@@ -1,0 +1,31 @@
+.navabr-bg{
+	background:#AD1457;
+}
+.nav-link {
+	color: white !important;
+	font-size:20px;
+}
+label{
+	font-weight: bold !important;
+}
+.item-action{
+	background:#ff4081 !important;
+	
+	border-color: #ff4081 !important;
+}
+
+.card-columns {
+	/* -webkit-column-count: 5;
+	-moz-column-count: 5; */
+	column-count: 5;
+	column-gap: 0.5rem;
+}
+
+.button-remove {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
